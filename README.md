@@ -1,8 +1,6 @@
-# AirHouse
+# AirHouse - Interview challenge
 
-Airhouse interview challenge
-
-Run server.py with Python3+ 
+**Run server.py with Python3+**
 
 Requests to test with
 1) POST /metric/{metric_name}
